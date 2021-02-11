@@ -21,7 +21,7 @@
 
 ### Выриативные Самостоятельные Работы (ВСР):
 
-* [Задание 2.1](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.1.%20ВСР.md)
-* [Задание 2.2](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.2.%20ВСР.md)
-* [Задание 2.3](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.3.%20ВСР.md)
-* [Задание 2.4](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.4.%20ВСР.md)
+* [Задание 2.1 ВСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.1.%20ВСР.md)
+* [Задание 2.2 ВСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.2.%20ВСР.md)
+* [Задание 2.3 ВСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.3.%20ВСР.md)
+* [Задание 2.4 ВСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%202.4.%20ВСР.md)
