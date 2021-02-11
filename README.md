@@ -18,3 +18,10 @@
 * [Задание 1.9. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%201.9.%20ИСР.md)
 * [Задание 1.10. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%201.10.%20ИСР.md)
 * [Задание 1.11. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%201.11.%20ИСР.md)
+
+### Выриативные Самостоятельные Работы (ВСР):
+
+* [Задание 2.1]()
+* [Задание 2.2]()
+* [Задание 2.3]()
+* [Задание 2.4]()
