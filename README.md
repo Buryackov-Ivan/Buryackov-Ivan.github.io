@@ -7,7 +7,7 @@
 
 ### Инвариантные Самостоятельные Работы (ИСР):
 
-* [Задание 1.1. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Буряков%20Иван%20Олегович%2C%20ИИТиТО%2C%20ИВТ%20(1)%2C%20ИСР%2C%20Задание%201.1.pdf)
+* [Задание 1.1. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/1.1.md)
 * [Задание 1.2. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%201.2.%20ИСР.md)
 * [Задание 1.3. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Буряков%20Иван%20Олегович%2C%20ИИТиТО%2C%20ИВТ%20(1)%2C%20ИСР%2C%20Задание%201.3.pdf)
 * [Задание 1.4. ИСР](https://github.com/Buryackov-Ivan/Buryackov-Ivan.github.io/blob/main/Задание%201.4.%20ИСР.md)
